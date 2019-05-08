@@ -34,7 +34,7 @@ Objective | Timeline | Key-Result
 Improve attractiveness of Blueleaf's product offering | Q2 2019 (Now) (Professional) | Evangelize our vision of the Augmented Advisor with a plan to validate in 2019
 Build & grow a high-functioning Product team | 2019 (Professional) | 100% voluntary retention, PM meet with > 5x customer/week 
 Scale Blueleaf to best-in-class SaaS | 2019-2022 | Propel Blueleaf to $10M ARR
-Be a great human to others | 2019 (Both) | Pay it forward 2x a week; write more hand-written notes; smile at strangers; call Mom more (and other friends/family members I value); 
+Be a great human to others | 2019 (Personal/Professional) | Pay it forward 2x a week; write more hand-written notes; smile at strangers; call Mom more (and other friends/family members I value); 
 Be a physically/mentally healthier me | 2019 (Personal) | Meditate & workout 4x a week. Pay it forward 2x a week.
 Grow my technical knowledge and product curiosity | 2019 (Personal/Professional) | Be a better partner to Engineering (goal: get mistaken for an Engineer by someone outside of the company)
 Develop a strong Product network | 2019 (Personal/Professional) | Particpate monthly in Product Leaders meetings. Have coffee/lunch with a Product executive 1x month
@@ -68,7 +68,7 @@ Never stop growing professionally | 5 Years | CPO and/or great product leader/sp
 ## What interests do you have when you're not working?
 * Exploring the world with my husband Andrew (aka Big Fun) ((who is much cooler than I am))...trying to get to Africa, China and back to Spain soon
 * Hosting friends at our house - we are the house you do to if bored, hungry, happy or sad, or just want to hang...and we love it. We have a "doors always open policy"...its something I was raised with and love about our life. We throw parties at our house at least 1x month
-* Being an exceptional friend, sister, daughter to my family
+* Being an exceptional friend, sister, daughter to my family and wife/partner to AW
 * Facetiming with my nieces and nephews, and Harper Henrichs (but she's really just in it to talk to Andrew)
 * My first job was an assistant art teacher...to this day painting and blending colors is one of my favorite ways to relax and be creative
 * Learning - I genuinely love learning new things...you can find me listening to podcasts, books, self-development resources, and YouTube videos regularly (if you have recommendations please send my way)...next goal: Fluency in Spanish
