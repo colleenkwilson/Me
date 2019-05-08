@@ -34,7 +34,8 @@ Build & grow a high-functioning Product team | 2019 (Professional) | 100% volunt
 Scale Blueleaf to best-in-class SaaS | 2019-2022 | propel Blueleaf to $10M ARR
 Be a great human to others | 2019 (Both) | Pay it forward 2x a week; write more hand-written notes; smile at strangers; call mom more (and other friends/family members I value); 
 Be a physically/mentally healthier me | 2019 (Personal) | Meditate & workout 4x a week. Pay it forward 2x a week.
-Grow my technical knowledge and product curiosity | 2019 (Personal/Professional) |  
+Grow my technical knowledge and product curiosity | 2019 (Personal/Professional) |
+Become a better writer and grow my vocabulary | Write professionally on LinkedIn 1x / month
 Never stop growing professionally | 5 Years | CPO and/or great product leader/speaker/facilitator
 
 ## My expectations of folks who report to me
@@ -72,4 +73,4 @@ Never stop growing professionally | 5 Years | CPO and/or great product leader/sp
 ## Other "Stuff"
 * I'm a Myers Briggs ENTJ
 * Im a former studderer...sometimes I still get tounge-tied when I get scared, excited, nervous, or emotional
-
+* I grew up fairly shy. To break myself of that habit I went to college knowing no one. And then studied aboard in a country that I barely spoke the language. They were two of the best decisions of my life.
