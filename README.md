@@ -34,8 +34,8 @@ Build & grow a high-functioning Product team | 2019 (Professional) | 100% volunt
 Scale Blueleaf to best-in-class SaaS | 2019-2022 | propel Blueleaf to $10M ARR
 Be a great human to others | 2019 (Both) | Pay it forward 2x a week; write more hand-written notes; smile at strangers; call mom more (and other friends/family members I value); 
 Be a physically/mentally healthier me | 2019 (Personal) | Meditate & workout 4x a week. Pay it forward 2x a week.
-Grow my technical knowledge and product curiosity | 2019 (Personal/Professional) |
-Become a better writer and grow my vocabulary | Write professionally on LinkedIn 1x / month
+Grow my technical knowledge and product curiosity | 2019 (Personal/Professional) | Be a better partner to Engineering (goal: get mistaken for an Engineer by someone outside of the company)
+Become a better writer and grow my vocabulary | 2019 (Personal/Professional) | Write professionally on LinkedIn 1x / month
 Never stop growing professionally | 5 Years | CPO and/or great product leader/speaker/facilitator
 
 ## My expectations of folks who report to me
@@ -60,17 +60,17 @@ Never stop growing professionally | 5 Years | CPO and/or great product leader/sp
 ## My achilles heels (but actively working on em)
 * Short patience at times. Call me out in the moment if you see pursed lips
 * Heart on my sleeve. Call me out in the moment if I seem too intense (tip: I don't blink when I am seeing red...thats the time to step in)
-* Potty Mouth - sometimes my "sass" is a bit too much and needs to be checked, as does my language (its not professional, or polite, but it is candid)
+* Potty Mouth - sometimes my "sass" and lack of filter is a bit too much and needs to be checked, as does my language
 
 ## What interests do you have when you're not working?
 * Exploring the world with my husband Andrew (aka Big Fun) ((who is much cooler than I am))...trying to get to Africa, China and back to Spain soon
-* Hosting friends at our house - we are the house you do to if bored, hungry, happy or sad, or just want to hang...and we love it
+* Hosting friends at our house - we are the house you do to if bored, hungry, happy or sad, or just want to hang...and we love it. We have a "doors always open policy"...its something I was raised with and love about our life. We throw parties at our house at least 1x month
 * Being an exceptional friend, sister, daughter to my family
-* Facetiming with my nieces and nephews, or Harper Hendrichs
+* Facetiming with my nieces and nephews, and Harper Hendrichs
 * My first job was an assistant art teacher...to this day painting and blending colors is one of my favorite ways to relax and be creative
 * Learning - I genuinely love learning new things...you can find me listening to podcasts, books, self-development resources, and YouTube videos regularly (if you have recommendations please send my way)...next goal: Fluency in Spanish
 
 ## Other "Stuff"
 * I'm a Myers Briggs ENTJ
 * Im a former studderer...sometimes I still get tounge-tied when I get scared, excited, nervous, or emotional
-* I grew up fairly shy. To break myself of that habit I went to college knowing no one. And then studied aboard in a country that I barely spoke the language. They were two of the best decisions of my life.
+* I grew up fairly shy. To break myself of that habit I went to college knowing no one. And then studied aboard in a country that I barely spoke the language. They were two of the best decisions of my life. 
