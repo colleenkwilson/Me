@@ -76,4 +76,4 @@ Never stop growing professionally | 5 Years | CPO and/or great product leader/sp
 ## Other "Stuff"
 * I'm a Myers Briggs ENTJ
 * Im a former studderer...sometimes I still get tounge-tied when I get scared, excited, nervous, or emotional
-* I grew up fairly shy. To break myself of that habit I went to college knowing no one. And then studied aboard in a country that I barely spoke the language. They were two of the best decisions of my life. 
+* I grew up fairly shy. To break myself of that habit I went to college knowing no one. And then studied aboard in a country that I barely spoke the language. Those were two of the best decisions of my life. 
