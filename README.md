@@ -29,10 +29,10 @@ Hit me up in whatever medium you'd like (but I do often have ALL my notification
 
 Objective | Timeline | Key-Result
 ----- | ----- | -----
-Improve attractiveness of Blueleaf's product offering | Q1/2 2019 (Now) | Evangelize our vision of the Augmented Advisor with a plan to validate
+Improve attractiveness of Blueleaf's product offering | Q2 2019 (Now) (Professional) | Evangelize our vision of the Augmented Advisor with a plan to validate in 2019
 Build & grow a high-functioning Product team | 2019 (Professional) | 100% voluntary retention, PM meet with > 5x customer/week 
-Scale Blueleaf to best-in-class SaaS | 2019-2022 | propel Blueleaf to $10M ARR
-Be a great human to others | 2019 (Both) | Pay it forward 2x a week; write more hand-written notes; smile at strangers; call mom more (and other friends/family members I value); 
+Scale Blueleaf to best-in-class SaaS | 2019-2022 | Propel Blueleaf to $10M ARR
+Be a great human to others | 2019 (Both) | Pay it forward 2x a week; write more hand-written notes; smile at strangers; call Mom more (and other friends/family members I value); 
 Be a physically/mentally healthier me | 2019 (Personal) | Meditate & workout 4x a week. Pay it forward 2x a week.
 Grow my technical knowledge and product curiosity | 2019 (Personal/Professional) | Be a better partner to Engineering (goal: get mistaken for an Engineer by someone outside of the company)
 Develop a strong Product network | 2019 (Personal/Professional) | Particpate monthly in Product Leaders meetings. Have coffee/lunch with a Product executive 1x month
