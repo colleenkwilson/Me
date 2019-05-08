@@ -2,7 +2,7 @@
 I aspire to be the best stand up, hard-working, ever-learning technology executive who won't shy away from rolling up the sleves and getting my hands dirty when needed, or working on problems no one else wants to solve. Building great (and profitable) products and experiences are about becoming an obsessive student of your customers'/market's pains and aspirations. I lead, guide, and coach my teams to become obsessive students of their customers.
 
 ## My Leadership Philosphy
-* Try to live by 
+* Be a respectful human first and foremost
 * Show [intellectual curiosity](https://www.forbes.com/sites/tomaspremuzic/2017/03/06/what-happens-when-leaders-lack-curiosity/#3cd906236b74)/effort before asking for help 
 * Proactive sharing (managing up/across)
 * Outcomes > how
@@ -29,27 +29,28 @@ Hit me up in whatever medium you'd like (but I do often have ALL my notification
 
 Objective | Timeline | Key-Result
 ----- | ----- | -----
-Improve attractiveness of Blueleaf's product offering | Q1/2 2019 (Now) | Evangalize our vision of the Augmented Advisor with a plan to validate
-Build & grow a high-functioning Product team | 2019 (Professional) | 100% voluntary rentetion, PM meet with > 5x customer/week 
+Improve attractiveness of Blueleaf's product offering | Q1/2 2019 (Now) | Evangelize our vision of the Augmented Advisor with a plan to validate
+Build & grow a high-functioning Product team | 2019 (Professional) | 100% voluntary retention, PM meet with > 5x customer/week 
 Scale Blueleaf to best-in-class SaaS | 2019-2022 | propel Blueleaf to $10M ARR
 Be a great human to others | 2019 (Both) | Pay it forward 2x a week; write more hand-written notes; smile at strangers; call mom more (and other friends/family members I value); 
 Be a physically/mentally healthier me | 2019 (Personal) | Meditate & workout 4x a week. Pay it forward 2x a week.
 Grow my technical knowledge and product curiosity | 2019 (Personal/Professional) | Be a better partner to Engineering (goal: get mistaken for an Engineer by someone outside of the company)
+Develop a strong Product network | 2019 (Personal/Professional) | Particpate monthly in Product Leaders meetings. Have coffee/lunch with a Product executive 1x month
 Become a better writer and grow my vocabulary | 2019 (Personal/Professional) | Write professionally on LinkedIn 1x / month
 Never stop growing professionally | 5 Years | CPO and/or great product leader/speaker/facilitator
 
 ## My expectations of folks who report to me
-* Please setup a healthly system of push/pull of sharing information (over-communicate). I can always handle bad news, but I HATE surprises.
+* Please setup a healthy system of push/pull of sharing information (over-communicate). I can always handle bad news, but I HATE surprises.
 * Please take ownership of you career and personal/professional development. If I have to be pushing you often, we won't last long, but I am ALWAYS here to help make it happen.
 * Please tell me if anything feels off, as soon as you feel it.
 * I work some weekends; this is my choice. I do NOT expect you to work weekends, but I do expect you to 'crank' during the week.
 
 ## What you can expect of me as your manager
-* Someone who will fight with and for you to acheive outsized professional growth & development
+* Someone who will fight with and for you to achieve outsized professional growth & development
 * Someone who won't micro-manage you, but expects much of you
 * Someone who cares less about facetime/hrs worked as much as the quality & impact of your output
 * Someone who over-indexes on transparency. Sure, there will be some things I just can't share with you, but I will never lie to you. 
-* Someone who truly cares about you personally and progessionally - I derive a great deal of fulfillment from leading others and its something I truly love and enjoy (and continuously strive to be better at)
+* Someone who truly cares about you personally and professionally - I derive a great deal of fulfillment from leading others and its something I truly love and enjoy (and continuously strive to be better at)
 
 ## My energy creators
 * Fixing/helping/problem-solving
@@ -66,7 +67,7 @@ Never stop growing professionally | 5 Years | CPO and/or great product leader/sp
 * Exploring the world with my husband Andrew (aka Big Fun) ((who is much cooler than I am))...trying to get to Africa, China and back to Spain soon
 * Hosting friends at our house - we are the house you do to if bored, hungry, happy or sad, or just want to hang...and we love it. We have a "doors always open policy"...its something I was raised with and love about our life. We throw parties at our house at least 1x month
 * Being an exceptional friend, sister, daughter to my family
-* Facetiming with my nieces and nephews, and Harper Hendrichs
+* Facetiming with my nieces and nephews, and Harper Henrichs (but she's really just in it to talk to Andrew)
 * My first job was an assistant art teacher...to this day painting and blending colors is one of my favorite ways to relax and be creative
 * Learning - I genuinely love learning new things...you can find me listening to podcasts, books, self-development resources, and YouTube videos regularly (if you have recommendations please send my way)...next goal: Fluency in Spanish
 
