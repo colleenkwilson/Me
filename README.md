@@ -32,7 +32,7 @@ Hit me up in whatever medium you'd like (but I do often have my notifications on
 
 Objective | Timeline | Key-Result
 ----- | ----- | -----
-Improve attractiveness of Blueleaf's product offering | Q2 2019 (Now) (Professional) | Evangelize our vision of the Augmented Advisor with a plan to validate in 2020. Launch a rebalancing product that advisors can actually use and a mobile app clients can understand; evolve our platform for speed and flexibility, beginning with Data (the problem no one wants to solve). Position Blueleaf as the company to go to for elegant, approachable solutions.
+Improve attractiveness of Blueleaf's product offering | Q2 2020 (Now) (Professional) | Evangelize our vision of the Augmented Advisor with a plan to validate in 2020. Close gaps - launch a rebalancing product that advisors can actually use and a mobile app clients can understand; evolve our platform for speed and flexibility, beginning with our data platform. Position Blueleaf as the company to go to for elegant, approachable solutions. Develop a reputation within the industry for being customer and market led (market friendly)
 Build & grow a high-functioning Product Development team | 2020-2021 (Professional) | 100% voluntary retention, PM meet with > 5x customer/week, Engineers know the market and business rationale 
 Scale Blueleaf to best-in-class SaaS | 2019-2022 | Propel Blueleaf to $10M ARR
 Be a great human to others | 2020 (Personal/Professional) | Pay it forward 2x a week; write more hand-written notes; call Mom more (and other friends/family members I value); be more patient, kind, present and optimistic. Spend 2 hrs per month volunteering (Greenwood Project, WIP). 
