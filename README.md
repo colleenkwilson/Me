@@ -15,7 +15,8 @@ TOPIC | ANSWER
 ----- | -----
 Most Productive Time of the Day | Mornings; before Noon (happy to meet outside of work hours, just ask)
 Thinking (Low Meeting Days) | Tuesday & Wednesday
-1x1 Days | Monday & Friday
+Executive development | Friday PM
+1x1 Days | Monday & Thursday (PM)
 Worst Day/Time for an intense 2 hr meeting | Fridays; After 2PM (unless there are cocktails and snacks)
 
 ## My Communication Channels
@@ -27,7 +28,7 @@ Worst Day/Time for an intense 2 hr meeting | Fridays; After 2PM (unless there ar
 
 Hit me up in whatever medium you'd like (but I do often have ALL my notifications on silent). I strive for a 24-hr SLA. If it's crazy urgent, don't hesitate to double-ring me on the phone or text me
 
-## My Current OKRs (as of May 2019)
+## My Current OKRs (as of May 2020)
 
 Objective | Timeline | Key-Result
 ----- | ----- | -----
@@ -36,7 +37,7 @@ Build & grow a high-functioning Product Development team | 2020-2021 (Profession
 Scale Blueleaf to best-in-class SaaS | 2019-2022 | Propel Blueleaf to $10M ARR
 Be a great human to others | 2020 (Personal/Professional) | Pay it forward 2x a week; write more hand-written notes; call Mom more (and other friends/family members I value); be more patient, kind, present and optimistic. Spend 2 hrs per month volunteering (Greenwood Project, WIP) 
 Be a physically/mentally healthier me | 2020 (Personal) | Meditate & workout 4x a week. Pay it forward 2x a week. Facetime w niece + newphews 2x week. Travel more with Andrew
-Grow my technical knowledge and product curiosity | 2020 (Personal/Professional) | Be a better partner to Engineering (goal: get mistaken for an Engineer by someone outside of the company); spend 1 hr each day learning/exploring Products
+Grow my technical collaboration and product communication skills | 2020 (Personal/Professional) | Be a better partner to Engineering (goal: get mistaken for an Engineer by someone outside of the company); spend 1 hr each day learning/exploring Products. Become one of the best product communicators - someone who can clearly define and articulate a product vision, strategy, and goals in a way that motivates action and inspires results
 Develop a strong Product network | 2020 (Personal/Professional) | Particpate monthly in Product Leaders meetings. Have coffee/lunch with a Product executive 1x month.
 Become a better writer and grow my vocabulary - use my voice | 2019 (Personal/Professional) | Write professionally on LinkedIn 1x / month on topics that inspire me (leadership, wellness, product, economic equality, wealthtech). Build a platform that I can use to voice more good and opportunity
 Never stop growing professionally | 5 Years | CPO and/or great product leader/speaker/facilitator, be invited to Hacking Finance, serve on a profressional board, regain my Spanish fluency, learn piano
