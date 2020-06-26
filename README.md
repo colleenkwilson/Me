@@ -32,14 +32,14 @@ Hit me up in whatever medium you'd like (but I do often have ALL my notification
 Objective | Timeline | Key-Result
 ----- | ----- | -----
 Improve attractiveness of Blueleaf's product offering | Q2 2019 (Now) (Professional) | Evangelize our vision of the Augmented Advisor with a plan to validate in 2019
-Build & grow a high-functioning Product team | 2019 (Professional) | 100% voluntary retention, PM meet with > 5x customer/week 
+Build & grow a high-functioning Product Development team | 2020 (Professional) | 100% voluntary retention, PM meet with > 5x customer/week, Engineers know the market and business rationale 
 Scale Blueleaf to best-in-class SaaS | 2019-2022 | Propel Blueleaf to $10M ARR
-Be a great human to others | 2019 (Personal/Professional) | Pay it forward 2x a week; write more hand-written notes; smile at strangers; call Mom more (and other friends/family members I value); 
-Be a physically/mentally healthier me | 2019 (Personal) | Meditate & workout 4x a week. Pay it forward 2x a week.
-Grow my technical knowledge and product curiosity | 2019 (Personal/Professional) | Be a better partner to Engineering (goal: get mistaken for an Engineer by someone outside of the company); spend 1 hr each day learning/exploring Products
-Develop a strong Product network | 2019 (Personal/Professional) | Particpate monthly in Product Leaders meetings. Have coffee/lunch with a Product executive 1x month
-Become a better writer and grow my vocabulary | 2019 (Personal/Professional) | Write professionally on LinkedIn 1x / month
-Never stop growing professionally | 5 Years | CPO and/or great product leader/speaker/facilitator
+Be a great human to others | 2020 (Personal/Professional) | Pay it forward 2x a week; write more hand-written notes; smile at strangers; call Mom more (and other friends/family members I value); be more patient, kind, present and optimistic 
+Be a physically/mentally healthier me | 2020 (Personal) | Meditate & workout 4x a week. Pay it forward 2x a week. Facetime w niece + newphews 2x week. Travel more with Andrew
+Grow my technical knowledge and product curiosity | 2020 (Personal/Professional) | Be a better partner to Engineering (goal: get mistaken for an Engineer by someone outside of the company); spend 1 hr each day learning/exploring Products
+Develop a strong Product network | 2020 (Personal/Professional) | Particpate monthly in Product Leaders meetings. Have coffee/lunch with a Product executive 1x month.
+Become a better writer and grow my vocabulary | 2019 (Personal/Professional) | Write professionally on LinkedIn 1x / month on topics that inspire me (leadership, wellness, product, economic equality, wealthtech)
+Never stop growing professionally | 5 Years | CPO and/or great product leader/speaker/facilitator, be invited to Hacking Finance, serve on a profressional board, regain my Spanish fluency, learn piano
 
 ## My expectations of folks who report to me
 * Please setup a healthy system of push/pull of sharing information (over-communicate). I can always handle bad news, but I HATE surprises.
