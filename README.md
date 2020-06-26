@@ -26,7 +26,7 @@ Worst Day/Time for an intense 2 hr meeting | Fridays; After 2PM (unless there ar
 * Please DO share an agenda & any background reading/context with the invite. If there's no agenda, I'm more likely to decline. Your time is valuable and so is mine. Let's do big things.
 * I do my best to not ping/message folks over the weekend unless they've reached out first.
 
-Hit me up in whatever medium you'd like (but I do often have ALL my notifications on silent). I strive for a 24-hr SLA. If it's crazy urgent, don't hesitate to double-ring me on the phone or text me
+Hit me up in whatever medium you'd like (but I do often have my notifications on silent). I strive for a 24-hr SLA. If it's crazy urgent, don't hesitate to double-ring me on the phone or text me
 
 ## My Current OKRs (as of May 2020)
 
@@ -35,10 +35,10 @@ Objective | Timeline | Key-Result
 Improve attractiveness of Blueleaf's product offering | Q2 2019 (Now) (Professional) | Evangelize our vision of the Augmented Advisor with a plan to validate in 2020. Launch a rebalancing product that advisors can actually use and a mobile app clients can understand; evolve our platform for speed and flexibility, beginning with Data (the problem no one wants to solve). Position Blueleaf as the company to go to for elegant, approachable solutions.
 Build & grow a high-functioning Product Development team | 2020-2021 (Professional) | 100% voluntary retention, PM meet with > 5x customer/week, Engineers know the market and business rationale 
 Scale Blueleaf to best-in-class SaaS | 2019-2022 | Propel Blueleaf to $10M ARR
-Be a great human to others | 2020 (Personal/Professional) | Pay it forward 2x a week; write more hand-written notes; call Mom more (and other friends/family members I value); be more patient, kind, present and optimistic. Spend 2 hrs per month volunteering (Greenwood Project, WIP) 
-Be a physically/mentally healthier me | 2020 (Personal) | Meditate & workout 4x a week. Pay it forward 2x a week. Facetime w niece + newphews 2x week. Travel more with Andrew
-Grow my technical collaboration and product communication skills | 2020 (Personal/Professional) | Be a better partner to Engineering (goal: get mistaken for an Engineer by someone outside of the company); spend 1 hr each day learning/exploring Products. Become one of the best product communicators - someone who can clearly define and articulate a product vision, strategy, and goals in a way that motivates action and inspires results
-Develop a strong Product network | 2020 (Personal/Professional) | Particpate monthly in Product Leaders meetings. Have coffee/lunch with a Product executive 1x month.
+Be a great human to others | 2020 (Personal/Professional) | Pay it forward 2x a week; write more hand-written notes; call Mom more (and other friends/family members I value); be more patient, kind, present and optimistic. Spend 2 hrs per month volunteering (Greenwood Project, WIP). 
+Be a physically/mentally healthier me | 2020 (Personal) | Meditate (use Calm) & workout 4x a week (goal: pilated hand stand). Pay it forward 2x a week. Facetime w niece + newphews 2x week. Travel more with Andrew. Practice hobbies that fulfill and resore me: reading and learning, gardening and working on my house, painting, cooking creative dishes and pickling things 
+Grow my technical collaboration and product communication skills | 2020 (Personal/Professional) | Be a better partner to Engineering (goal: get mistaken for an Engineer by someone outside of the company); spend 1 hr each day learning/exploring Products. Become one of the best product communicators - someone who can clearly define and articulate a product vision, strategy, and goals in a way that motivates action and inspires results. Better questions > answers
+Develop a strong Product network | 2020 (Personal/Professional) | Particpate monthly in Product Leaders meetings. Have coffee/lunch with a Product executive 1x month. Develop strong partnerships in the Wealthtech space (outreach 2x month)
 Become a better writer and grow my vocabulary - use my voice | 2019 (Personal/Professional) | Write professionally on LinkedIn 1x / month on topics that inspire me (leadership, wellness, product, economic equality, wealthtech). Build a platform that I can use to voice more good and opportunity
 Never stop growing professionally | 5 Years | CPO and/or great product leader/speaker/facilitator, be invited to Hacking Finance, serve on a profressional board, regain my Spanish fluency, learn piano
 
