@@ -40,7 +40,7 @@ Be a physically/mentally healthier me | 2020 (Personal) | Meditate (use Calm) & 
 Grow my technical collaboration and product communication skills | 2020 (Personal/Professional) | Be a better partner to Engineering (goal: get mistaken for an Engineer by someone outside of the company); spend 1 hr each day learning/exploring Products. Become one of the best product communicators - someone who can clearly define and articulate a product vision, strategy, and goals in a way that motivates action and inspires results. Better questions > answers
 Develop a strong Product network | 2020 (Personal/Professional) | Particpate monthly in Product Leaders meetings. Have coffee/lunch with a Product executive 1x month. Develop strong partnerships in the Wealthtech space (outreach 2x month)
 Become a better writer and grow my vocabulary - use my voice | 2019 (Personal/Professional) | Write professionally on LinkedIn 1x / month on topics that inspire me (leadership, wellness, product, economic equality, wealthtech). Build a platform that I can use to voice more good and opportunity
-Never stop growing professionally | 5 Years | CPO and/or great product leader/speaker/facilitator, be invited to Hacking Finance, serve on a profressional board, regain my Spanish fluency, learn piano
+Never stop growing professionally | 5 Years | CPO (eventaully CEO) and/or great product leader/speaker/facilitator, be invited to Hacking Finance, serve on a profressional board, regain my Spanish fluency, learn piano. Invest in female and minority founded and led businesses.
 
 ## My expectations of folks who report to me
 * Please setup a healthy system of push/pull of sharing information (over-communicate). I can always handle bad news, but I HATE surprises.
