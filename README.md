@@ -31,14 +31,14 @@ Hit me up in whatever medium you'd like (but I do often have ALL my notification
 
 Objective | Timeline | Key-Result
 ----- | ----- | -----
-Improve attractiveness of Blueleaf's product offering | Q2 2019 (Now) (Professional) | Evangelize our vision of the Augmented Advisor with a plan to validate in 2019
-Build & grow a high-functioning Product Development team | 2020 (Professional) | 100% voluntary retention, PM meet with > 5x customer/week, Engineers know the market and business rationale 
+Improve attractiveness of Blueleaf's product offering | Q2 2019 (Now) (Professional) | Evangelize our vision of the Augmented Advisor with a plan to validate in 2020. Launch a rebalancing product that advisors can actually use and a mobile app clients can understand; evolve our platform for speed and flexibility, beginning with Data (the problem no one wants to solve). Position Blueleaf as the company to go to for elegant, approachable solutions.
+Build & grow a high-functioning Product Development team | 2020-2021 (Professional) | 100% voluntary retention, PM meet with > 5x customer/week, Engineers know the market and business rationale 
 Scale Blueleaf to best-in-class SaaS | 2019-2022 | Propel Blueleaf to $10M ARR
-Be a great human to others | 2020 (Personal/Professional) | Pay it forward 2x a week; write more hand-written notes; smile at strangers; call Mom more (and other friends/family members I value); be more patient, kind, present and optimistic 
+Be a great human to others | 2020 (Personal/Professional) | Pay it forward 2x a week; write more hand-written notes; call Mom more (and other friends/family members I value); be more patient, kind, present and optimistic. Spend 2 hrs per month volunteering (Greenwood Project, WIP) 
 Be a physically/mentally healthier me | 2020 (Personal) | Meditate & workout 4x a week. Pay it forward 2x a week. Facetime w niece + newphews 2x week. Travel more with Andrew
 Grow my technical knowledge and product curiosity | 2020 (Personal/Professional) | Be a better partner to Engineering (goal: get mistaken for an Engineer by someone outside of the company); spend 1 hr each day learning/exploring Products
 Develop a strong Product network | 2020 (Personal/Professional) | Particpate monthly in Product Leaders meetings. Have coffee/lunch with a Product executive 1x month.
-Become a better writer and grow my vocabulary | 2019 (Personal/Professional) | Write professionally on LinkedIn 1x / month on topics that inspire me (leadership, wellness, product, economic equality, wealthtech)
+Become a better writer and grow my vocabulary - use my voice | 2019 (Personal/Professional) | Write professionally on LinkedIn 1x / month on topics that inspire me (leadership, wellness, product, economic equality, wealthtech). Build a platform that I can use to voice more good and opportunity
 Never stop growing professionally | 5 Years | CPO and/or great product leader/speaker/facilitator, be invited to Hacking Finance, serve on a profressional board, regain my Spanish fluency, learn piano
 
 ## My expectations of folks who report to me
@@ -57,7 +57,7 @@ Never stop growing professionally | 5 Years | CPO and/or great product leader/sp
 ## My energy creators
 * Fixing/helping/problem-solving
 * Love telling stories and deeply understanding our customers
-* Lifelong learner (see goals below)
+* Lifelong learner (see goals above)
 * Mentorship (bi-directional)
 
 ## My achilles heels (but actively working on em)
@@ -66,14 +66,13 @@ Never stop growing professionally | 5 Years | CPO and/or great product leader/sp
 * Potty Mouth - sometimes my "sass" and lack of filter is a bit too much and needs to be checked, as does my language
 
 ## What interests do you have when you're not working?
-* Exploring the world with my husband Andrew (aka Big Fun) ((who is much cooler than I am))...trying to get to Africa, China and back to Spain soon
-* Hosting friends at our house - we are the house you do to if bored, hungry, happy or sad, or just want to hang...and we love it. We have a "doors always open policy"...its something I was raised with and love about our life. We throw parties at our house at least 1x month
+* Exploring the world with my husband Andrew...trying to get to Africa, China and back to Spain soon
+* Hosting friends at our house - we are the house you do to if bored, hungry, happy or sad, or just want to hang out...and we love it. We have a "doors always open policy"...its something I was raised with and love about our life. We try to bring people together at our house at least 1x month
 * Being an exceptional friend, sister, daughter to my family and wife/partner to AW
 * Facetiming with my nieces and nephews, and Harper Henrichs (but she's really just in it to talk to Andrew)
 * My first job was an assistant art teacher...to this day painting and blending colors is one of my favorite ways to relax and be creative
 * Learning - I genuinely love learning new things...you can find me listening to podcasts, books, self-development resources, and YouTube videos regularly (if you have recommendations please send my way)...next goal: Fluency in Spanish
 
 ## Other "Stuff"
-* I'm a Myers Briggs ENTJ
 * Im a former studderer...sometimes I still get tounge-tied when I get scared, excited, nervous, or emotional
 * I grew up fairly shy. To break myself of that habit I went to college knowing no one. And then studied aboard in a country that I barely spoke the language. Those were two of the best decisions of my life. 
