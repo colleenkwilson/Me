@@ -60,6 +60,7 @@ Never stop growing professionally | 5 Years | CPO (eventually CEO) and/or great 
 * Love telling stories and deeply understanding our customers
 * Lifelong learner (see goals above)
 * Mentorship (bi-directional)
+* Talking with users (discovery)
 
 ## My achilles heels (but actively working on em)
 * Short patience at times. Call me out in the moment if you see pursed lips
