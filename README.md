@@ -69,7 +69,7 @@ Never stop growing professionally | 5 Years | CPO (eventually CEO) and/or great 
 
 ## What interests do you have when you're not working?
 * Exploring the world with my husband Andrew...trying to get to Africa, China and back to Spain soon
-* Hosting friends at our house - we are the house you do to if bored, hungry, happy or sad, or just want to hang out...and we love it. We have a "doors always open policy"...its something I was raised with and love about our life. We try to bring people together at our house at least 1x month
+* Hosting friends at our house - we are the house you go to if bored, hungry, happy or sad, or just want to hang out...and we love it. We have a "doors always open policy"...its something I was raised with and love about our life. We try to bring people together at our house at least 1x month
 * Being an exceptional friend, sister, daughter to my family and wife/partner to AW
 * Facetiming with my nieces and nephews, and Harper Henrichs (but she's really just in it to talk to Andrew)
 * My first job was an assistant art teacher...to this day painting and blending colors is one of my favorite ways to relax and be creative
