@@ -66,6 +66,7 @@ Never stop growing professionally | 5 Years | CPO (eventually CEO) and/or great 
 * Short patience at times. Call me out in the moment if you see pursed lips
 * Heart on my sleeve. Call me out in the moment if I seem too intense (tip: I don't blink when I am seeing red...thats the time to step in)
 * Potty Mouth - sometimes my "sass" and lack of filter is a bit too much and needs to be checked, as does my language
+* When I am under stress, I tend to dive into details. This can feel like meddeling and micromanaging (well, becuase it is). Please know this never has anything to do with you or your abilities. Usually its becuase I want to contribute, or I looking for something to control (this is true especially when I am dealing with personal stress). When this happens, call me out directly, and kindly. The feedback is always helpful
 
 ## What interests do you have when you're not working?
 * Exploring the world with my husband Andrew...trying to get to Africa, China and back to Spain soon
