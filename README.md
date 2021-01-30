@@ -17,7 +17,7 @@ Most Productive Time of the Day | Mornings; before Noon (happy to meet outside o
 Thinking (Low Meeting Days) | Tuesday & Wednesday
 Executive development | Friday PM
 1x1 Days | Monday & Thursday (PM)
-Worst Day/Time for an intense 2 hr meeting | Fridays; After 2PM (unless there are cocktails and snacks)
+Worst Day/Time for an intense 2 hr meeting | Fridays; After 3PM
 
 ## My Communication Channels
 *  My time (and thus my calendar) is very important to me. I strive to be an efficient person & purposefully carve out time in my day/week to 'think'. 
@@ -54,6 +54,15 @@ Never stop growing professionally | 5 Years | CPO (eventually CEO) and/or great 
 * Someone who cares less about facetime/hrs worked as much as the quality & impact of your output
 * Someone who over-indexes on transparency. Sure, there will be some things I just can't share with you, but I will never lie to you. 
 * Someone who truly cares about you personally and professionally - I derive a great deal of fulfillment from leading others and its something I truly love and enjoy (and continuously strive to be better at)
+
+## How I practice Product - Resources/Approaches that inform my practice:
+* [Lean Canvas](https://leanstack.com/lean-canvas)
+* [Continuous Discovery](https://www.producttalk.org/) [Intro to modern discovery keynote](https://www.youtube.com/watch?v=l7-5x0ra2tc)
+* [Inspired](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507) and [Marty Cagan's Blog](https://svpg.com/articles/)
+* [Cagan's 10 Questions](https://drive.google.com/file/d/1PEFL9P2zE1UqAGg5yrKqqlPqlgkFmdim/view?usp=sharing)
+* [Customer Discovery](https://www.amazon.com/Four-Steps-Epiphany-Steve-Blank/dp/0989200507) [Discovery templates](https://customerdevlabs.com/script/)
+* [JTBD](https://jobs-to-be-done.com/jobs-to-be-done-a-framework-for-customer-needs-c883cbf61c90)
+* [Fearless Product Leadership](https://www.fearless-product.com/)
 
 ## My energy creators
 * Fixing/helping/problem-solving
