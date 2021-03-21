@@ -33,7 +33,7 @@ Hit me up in whatever medium you'd like (but I do often have my notifications on
 Objective | Timeline | Key-Result
 ----- | ----- | -----
 Improve attractiveness of Blueleaf's product offering | Q2 2020 (Now) (Professional) | Evangelize our vision of the Augmented Advisor with a plan to validate in 2020. Close gaps - launch a rebalancing product that advisors can actually use and a mobile app clients can understand; evolve our platform for speed and flexibility, beginning with our data platform. Position Blueleaf as the company to go to for elegant, approachable solutions. Develop a reputation within the industry for being customer and market led (market friendly)
-Build & grow a high-functioning Product Development team | 2020-2021 (Professional) | 100% voluntary retention, PM meet with > 5x customer/week, Engineers know the market and business rationale 
+Build & grow a high-functioning Product Development team | 2021 (Professional) | 100% voluntary retention, PM meet with > 5x customer/week, Engineers know the market and business rationale, everyone at MANTL can demo MANTL
 Scale Blueleaf to best-in-class SaaS | 2019-2022 | Propel Blueleaf to $10M ARR
 Be a great human to others | 2020 (Personal/Professional) | Pay it forward 2x a week; write more hand-written notes; call Mom more (and other friends/family members I value); be more patient, kind, present and optimistic. Spend 2 hrs per month volunteering (Greenwood Project, WIP). 
 Be a physically/mentally healthier me | 2020 (Personal) | Meditate (use Calm) & workout 4x a week (goal: pilated hand stand). Pay it forward 2x a week. Facetime w niece + newphews 2x week. Travel more with Andrew. Practice hobbies that fulfill and resore me: reading and learning, gardening and working on my house, painting, cooking creative dishes and pickling things 
@@ -41,6 +41,7 @@ Grow my technical collaboration and product communication skills | 2020 (Persona
 Develop a strong Product network | 2020 (Personal/Professional) | Particpate monthly in Product Leaders meetings. Have coffee/lunch with a Product executive 1x month. Develop strong partnerships in the Wealthtech space (outreach 2x month)
 Become a better writer and grow my vocabulary - use my voice | 2020 (Personal/Professional) | Write professionally on LinkedIn 1x / month on topics that inspire me (leadership, wellness, product, economic equality, wealthtech). Build a platform that I can use to voice more good and opportunity
 Never stop growing professionally | 5 Years | CPO (eventually CEO) and/or great product leader/speaker/facilitator, be invited to Hacking Finance, serve on a profressional board, regain my Spanish fluency, learn piano. Invest in female and minority founded and led businesses.
+Become the best at being a beginner | 5 Years | Growing in my career demands vulnerability and consistent growht and progress. I can only continue to grow and grow others by being a beginning again, and becoming very skilled in learning new things
 
 ## My expectations of folks who report to me
 * Please setup a healthy system of push/pull of sharing information (over-communicate). I can always handle bad news, but I HATE surprises.
