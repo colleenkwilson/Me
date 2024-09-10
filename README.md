@@ -18,7 +18,7 @@ Be excellent to yourself, and one another.
 TOPIC | ANSWER
 ----- | -----
 Most Productive Time of the Day | Mornings; before Noon 
-Key 1:1s* | Directs - 1x week, Skips - 1x month, Peers - bi-weekly,Org - monthly all hands, 
+Key 1:1s* | Directs - 1x week, Skips - 1x month, Peers - bi-weekly, Org - monthly all hands, 
 Worst Day/Time for an intense 2 hr meeting | Fridays; After 3PM
 Craft / networking / connection | 1x month I like to block mornings for coffee meetings, networking, and connection with the broader product/fintech community to keep my network and skills strong. Additionally, once every 6 weeks I meet with my Chief core group, meeting my Product Peers 1/month. I also like to attend 1-2 conferences per year related to product and leadership
 Personal reflection and growth | I like to take a personal retreat once per year (usually solo) to reflect on my personal and professional goals and recharge.
@@ -37,18 +37,14 @@ Reach out to me in whichever medium you'd like (but I do often have my notificat
 
 ## My Current Goals (refreshed September 2024)
 
-Objective | Timeline | Key-Result
+Goal | Timeline | Details/why
 ----- | ----- | -----
-Improve attractiveness of Blueleaf's product offering | Q2 2020 (Now) (Professional) | Evangelize our vision of the Augmented Advisor with a plan to validate in 2020. Close gaps - launch a rebalancing product that advisors can actually use and a mobile app clients can understand; evolve our platform for speed and flexibility, beginning with our data platform. Position Blueleaf as the company to go to for elegant, approachable solutions. Develop a reputation within the industry for being customer and market led (market friendly)
-Build & grow a high-functioning Product Development team | 2021 (Professional) | 100% voluntary retention, PM meet with > 5x customer/week, Engineers know the market and business rationale, everyone at MANTL can demo MANTL
-Scale Blueleaf to best-in-class SaaS | 2019-2022 | Propel Blueleaf to $10M ARR
-Be a great human to others | 2020 (Personal/Professional) | Pay it forward 2x a week; write more hand-written notes; call Mom more (and other friends/family members I value); be more patient, kind, present and optimistic. Spend 2 hrs per month volunteering (Greenwood Project, WIP). 
-Be a physically/mentally healthier me | 2020 (Personal) | Meditate (use Calm) & workout 4x a week (goal: pilated hand stand). Pay it forward 2x a week. Facetime w niece + newphews 2x week. Travel more with Andrew. Practice hobbies that fulfill and resore me: reading and learning, gardening and working on my house, painting, cooking creative dishes and pickling things 
-Grow my technical collaboration and product communication skills | 2020 (Personal/Professional) | Be a better partner to Engineering; spend 1 hr each day learning/exploring Products / product techniques to curate my own appraoch. Become one of the best product communicators - someone who can clearly define and articulate a product vision, strategy, and goals in a way that motivates action and inspires results. Better questions > answers
-Develop a strong Product network | 2020 (Personal/Professional) | Particpate monthly in Product Leaders meetings. Have coffee/lunch with a Product executive 1x month. Develop strong partnerships in the Wealthtech space (outreach 2x month)
-Become a better writer and grow my vocabulary - use my voice | 2020 (Personal/Professional) | Write professionally on LinkedIn 1x / month on topics that inspire me (leadership, wellness, product, economic equality, wealthtech). Build a platform that I can use to voice more good and opportunity
-Never stop growing professionally | 5 Years | CPO (eventually CEO) and/or great product leader/speaker/facilitator, be invited to Hacking Finance, serve on a profressional board, regain my Spanish fluency, learn piano. Invest in female and minority founded and led businesses.
-Become the best at being a beginner | 5 Years | Growing in my career demands vulnerability and consistent growht and progress. I can only continue to grow and grow others by being a beginning again, and becoming very skilled in learning new things
+<subject to revision once I start> Provide the most love financial experience for low-savings individuals | Next 3 years | Discover, deliver and champion a platform of flexible, high-integrity financial solutions for the low savings individual at Best Egg
+<subject to revision once I start> Build & grow a high-performing Product team at Best Egg | 2024+ | Create clarity, ownership and structure to support the growth of a high impact product team.
+Be a physically/mentally healthier me | 2024+ | Rebuild my core strength and stamina; increase muscle mass.Team “no back pain” by 2025
+Continue to grow in my craft and learn new technology | 2024+ | Build FairShare.ai (a GPT for modern household management based on the principles of Fair Play)
+Hold intentional space to prioritize my personal relationships just like my work | Ongoing | Plan an amazing Girls Trip for 2025, host friends for dinner 1x month, host 2 school gatherings per year to connect with the parents of Charlie's classmates
+Become the best at being a beginner (writing) | Ongoing | Focus on creating vs consuming content. I can only continue to grow and grow others by being a beginner again, and becoming very skilled in learning new things, and accepting that they may not be easy or fun initially. My curret focus: Writing
 
 ## My expectations of folks who report to me
 * Please set up a healthy system of push/pull of sharing information (over-communicate). I can always handle bad news, but I hate surprises. You are not letting me down by communicating risks, and concerns. I will support you in solving them.
@@ -111,5 +107,5 @@ My Product Resource Stack can be found on my Substack, Coffee with Colleen
 
 ## Other "Stuff"
 * I'm a former stutterer...sometimes I still get tongue-tied when I get scared, excited, nervous, or emotional
-I grew up fairly shy. To break myself of that habit I went to college knowing no one. And then studied abroad in a country where I barely spoke the language. Those were two of the best decisions of my life.
-I got married at 28. Decided I wanted children at 36 (so did my husband). Gave birth to my son a few months shy of 40. I have spent most of my adult life without children. It is hands-down the most rewarding, joyful, amazing, exhausting and hardest role I will ever play; I am deeply grateful for the opportunity to have children. I also am equally familiar with the pain and heartbreak associated with trying to build a family. This experience has changed who I am as a person, both within work and outside of work. If you are one of the 1 in 6 families experiencing these challenges, my heart goes out to you, and am happy to support you in any way. 
+* I grew up fairly shy. To break myself of that habit I went to college knowing no one. And then studied abroad in a country where I barely spoke the language. Those were two of the best decisions of my life.
+* I got married at 28. Decided I wanted children at 36 (so did my husband). Gave birth to my son a few months shy of 40. I have spent most of my adult life without children. It is hands-down the most rewarding, joyful, amazing, exhausting and hardest role I will ever play; I am deeply grateful for the opportunity to have children. I also am equally familiar with the pain and heartbreak associated with trying to build a family. This experience has changed who I am as a person, both within work and outside of work. If you are one of the [1 in 6 families experiencing these challenges](https://www.cofertility.com/family-learn/fertility-statistics), my heart goes out to you, and am happy to support you in any way. 
