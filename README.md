@@ -1,23 +1,36 @@
 # Colleen's Leadership README/Operating Manual
-I aspire to be the best stand up, hard-working, ever-learning technology executive who won't shy away from rolling up her sleeves and getting my hands dirty when needed, or working on problems no one else wants to solve. Building great (and profitable) products and experiences are about becoming an obsessive student of your customers'/market's pains and aspirations. I lead, guide, and coach my teams to become obsessive students of their customers.
+I aspire to be the best stand up, hard-working, ever-learning executive who won't shy away from rolling up her sleeves and getting my hands dirty when needed, or working on problems no one else wants to solve. Building great (and profitable) products is about a continuous commitment to excellence (both internally and externally). I lead, guide, and coach my teams to become obsessive students of their customers, their business, and technology, world-class collaborators, and high impact contributors.
 
-Let's do big things!
+Be excellent to one another
 
 ## My Leadership Philosphy
-* Be a respectful human first and foremost
-* Show [intellectual curiosity](https://www.forbes.com/sites/tomaspremuzic/2017/03/06/what-happens-when-leaders-lack-curiosity/#3cd906236b74)/effort before asking for help 
-* Proactive sharing (managing up/across)
+* Be a respectful human being first and foremost
+* Pursue excellence in your craft to the best of your abilities. Let that pursuit of excellence drive you. Compete with yourself, not others
+* Show intellectual curiosity / effort before asking for help
+* Model proactive sharing and being generous with context, information and knowledge (managing up/across)
 * Outcomes > how
-* Pay it forward
+* Work hard and be nice to people - Pay it forward, and assume benevolence
+* You own your career, but you rent your title. Manage it well
+* The right job and culture should not mandate that you sacrifice your health, happiness, and family for your paycheck
+* Action breeds clarity. Start by starting. Exposure therapy works
 
 ## My Daily/Weekly Cadence
 TOPIC | ANSWER
 ----- | -----
-Most Productive Time of the Day | Mornings; before Noon (happy to meet outside of work hours, just ask)
-Thinking (Low Meeting Days) | Tuesday & Wednesday
-Executive development | Friday PM
-1x1 Days | Monday & Thursday (PM)
+Most Productive Time of the Day | Mornings; before Noon 
+Key 1:1s | Directs - 1x week*
+Skips - 1x month*
+Peers - bi-weekly*
+Org - monthly all hands*
+
+*and as needed, always
 Worst Day/Time for an intense 2 hr meeting | Fridays; After 3PM
+Craft / networking / connection | 1x month I like to block mornings for coffee meetings, networking, and connection with the broader product/fintech community to keep my network and skills strong.
+
+Additionally, once every 6 weeks I meet with my Chief core group, meeting my Product Peers 1/month
+
+I also like to attend 1-2 conferences per year related to product and leadership
+
 
 ## My Communication Channels
 *  My time (and thus my calendar) is very important to me. I strive to be an efficient person & purposefully carve out time in my day/week to 'think'. 
