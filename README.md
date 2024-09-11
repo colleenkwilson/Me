@@ -3,7 +3,7 @@ I aspire to be the best stand up, hard-working, ever-learning executive who won'
 
 Be excellent to yourself, and one another.
 
-## My Leadership Philosphy
+## My Leadership Philosophy
 * Be a respectful human being first and foremost
 * Pursue excellence in your craft to the best of your abilities. Let that pursuit of excellence drive you. Compete with yourself, not others
 * Show intellectual curiosity / effort before asking for help
