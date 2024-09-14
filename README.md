@@ -18,7 +18,7 @@ Be excellent to yourself, and to one another.
 TOPIC | ANSWER
 ----- | -----
 Most Productive Time of the Day | Mornings; before Noon 
-Key 1:1s* | Directs - 1x week, Skips - 1x month, Peers - bi-weekly, Org - monthly all hands, 
+Key 1:1s* | Directs - 1x week, Skips - 1x month, Peers - bi-weekly, Org - monthly all hands
 Worst Day/Time for an intense 2 hr meeting | Fridays; After 3PM
 Craft / networking / connection | Monthly coffee meetings and networking; attend 1-2 conferences a year; Chief group every 6 weeks
 Personal reflection and growth | Annual personal retreat (usually solo)
