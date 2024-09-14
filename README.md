@@ -38,8 +38,9 @@ Personal reflection and growth | Annual personal retreat (usually solo)
 
 Goal | Timeline | Details/why
 ----- | ----- | -----
-<subject to revision once I start> Provide the most love financial platform for low-savings individuals | Next 3 years | Build and champion a platform of flexible, high-integrity financial solutions at Best Egg.
-<subject to revision once I start> Continue to build & grow a high-performing Product team | 2024+ | Create clarity, ownership, and structure to support team growth.
+(subject to revision) Provide the most love financial platform for low-savings individuals | Next 3 years | Build and champion a platform of flexible, high-integrity financial solutions at Best Egg.
+(subject to revision once I start) Continue to build & grow a high-performing Product team | 2024+ | Create clarity, ownership, and structure to support team growth.
+(subject to revision) Increase financial confidence of Best Egg customers by XXX% by 2027 | 2025+ | Demonstrate measurable progress on our mission via a Best Egg annual State of Fianancial Confidence report.
 Be a physically/mentally healthier me | 2024+ | Rebuild core strength, increase muscle mass. Team “No Back Pain” by 2025.
 Continue growing in my craft | 2024+ | Develop FairShare.ai (a GPT for modern household management).
 Hold space for personal relationships	 | Ongoing | Plan a Girls Trip for 2025, host friends monthly, and organize school gatherings.
