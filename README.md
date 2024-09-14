@@ -1,5 +1,5 @@
 # Colleen's Leadership README/Operating Manual
-I strive to be a hardworking, ever-learning executive who isn’t afraid to roll up my sleeves and tackle tough challenges. For me, building great (and profitable) products is about a continuous commitment to excellence, both internally and externally. I lead, guide, and coach my teams to become deeply curious about their customers, their business, and technology while fostering a culture of collaboration and high-impact contribution.
+I strive to be a hardworking, ever-learning executive who isn’t afraid to roll up my sleeves and tackle tough challenges. For me, building great (and profitable) products is about a continuous commitment to excellence, both internally and externally. I lead, guide, and coach my teams to become deeply curious about their customers, their business, and technology while fostering a culture of exceptional collaboration.
 
 Be excellent to yourself, and to one another.
 
@@ -60,11 +60,6 @@ Be the best beginner (writing)	 | Ongoing | Focus on creating content (vs just c
 * Someone who over-indexes on transparency. While I may not be able to share everything, I’ll never lie to you.
 * Someone who genuinely cares about your happiness and success. While I am not responsible for that, I will do all I can to support it.
 
-## How I practice Product - Resources/Approaches that inform my practice:
-There are amazing resources available written by people much smarter than me. It is my priority, as a practioner of the craft, to constantly be elevating how I practice product and adding new tools to my toolbelt.
-
-My Product Resource Stack can be found on my Substack, Coffee with Colleen
-
 ## My energy creators
 * Shipping software and watching the usage data come in
 * Solving a challenging technical, analytical, or strategic problem
@@ -83,7 +78,7 @@ My Product Resource Stack can be found on my Substack, Coffee with Colleen
 * Meetings where the outcomes are unclear and there is no one driving the agenda or conversation
 * Avoiding or delaying uncomfortable and/or important conversations
 
-## My Superpowers
+## My superpowers
 * Knowing what to ignore.
 * Hiring and organizational design.
 * Balancing the details with the bigger picture (macro vs micro, as well as cross-functionally).
@@ -96,7 +91,7 @@ My Product Resource Stack can be found on my Substack, Coffee with Colleen
 * I tend to be to-the-point and short in written comms, which can come across as short. It is not intentional, and I am never irritated that you are reaching out to me. It's just my style, and much of it comes from overcorrecting past feedback about being verbose.
 * Strong opinions, loosely held – data and logic are my love language, but I always strive to balance inquiry with advocacy. Rarely will you find that I cannot be moved from a position.
 
-## What interests do you have when you're not working?
+## What I do when I'm not at work
 * Outdoor Adventures – My weekends are for family walks, hikes, and exploring parks with coffee in hand.
 * Connection & Community – I love great conversations over good food, drinks, and music.
 * Reading – From thrillers to self-development, books are my escape.
