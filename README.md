@@ -29,9 +29,9 @@ Personal reflection and growth | Annual personal retreat (usually solo)
 * My time is valuable, and so is yours. I purposefully carve out time in my week to think and learn.
 * Please don't double book me. My calendar is public – if the slot is open, feel free to book it, but an agenda is requested.
 * Share any context and background reading with the invite. No agenda? I may decline.
-* I send messages when it’s convenient for me, which sometimes means late evenings after my son is asleep. I don't expect off-hours responses unless explicitly stated. I try to caveat messages with a <for tomorrow> or <not urgent> but like all people, Im not always consistent.
+* I send messages when it’s convenient for me, which sometimes means late evenings after my son is asleep. I don't expect off-hours responses unless explicitly stated. I try to caveat messages with a "for tomorrow" or "not urgent" but like all people, I'm not always consistent.
 * I aim not to send weekend messages unless it’s urgent or you’ve reached out first.
-* As we normalize as a team, I prefer cameras on during meetings; beyond that, I'm open to walking 1:1s over the phone when no screen is needed.
+* As we normalize as a team, I prefer cameras on during meetings; beyond that, I'm open to walking 1:1s over the phone when no screen is needed (can't we all use some more vitamin D and fresh air?)
 * You can reach out to me in any medium you prefer, but I often have notifications on silent. If it’s urgent, please text or call. I strive for a 24 hour SLA
 
 ## My Current Goals (refreshed September 2024)
